@@ -19,3 +19,4 @@ The extension of file in Linux is usually contain 2-4 characters, because the Li
 
 ##### Resources 
 ###### [1] I've quoted from [GitHub](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
