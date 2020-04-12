@@ -6,7 +6,7 @@ I’ve prefer Sublime Text to use in coding because it has many features and I u
 # What is the Command Line?
 A command line or we can name it terminal which is a window contain texts to appearing, processing , creating, and transfer folders or files on our PC.
 ## Why we use it?
-we use it to almost exicute all same tasks or several tasks faster, and it can be much easier when exicute it automaticly.
+we use it to almost execute all same tasks or several tasks faster, and it can be much easier when execute it automatically.
 
 # Basic Navigation
 - **pwd** which refers to Print Working Directory, we use it to display the path or show us where we are right now.
