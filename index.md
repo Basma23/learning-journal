@@ -1,6 +1,6 @@
 ***Hi everyone,***
 my name is Basma, I'm 23 years old, and I was an IT student at SMU in KSA, unfortunately, I couldn't complete my study. So, I'm here to continue my study in the major which I love it. 
-####Thank you all.####
+#### Thank you all. ####
 [GitHub](https://github.com/Basma23)
 
 # What is growth mindset?
