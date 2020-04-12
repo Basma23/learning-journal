@@ -12,9 +12,9 @@ A command line or we can name it terminal which is a window contain texts to app
 we use it to almost exicute all same tasks or several tasks faster, and it can be much easier when exicute it automaticly.
 
 # Basic Navigation
-pwd which refars to Print Working Directory, we use it to display the path or show us wher we are right now.
-ls which refares to List, which appear to us directory contents.
-cd which refares to the Change Directories, which we use it to move from directory to other.
+- **pwd** which refars to Print Working Directory, we use it to display the path or show us wher we are right now.
+- **ls** which refares to List, which appear to us directory contents.
+- **cd** which refares to the Change Directories, which we use it to move from directory to other.
 
 # About Files
 when we talking about Linux, we should know that we are concedring that all thing is  as a file, such as text, directory, image, for system we can say keyboard (read), pc screen (write), and so on.
