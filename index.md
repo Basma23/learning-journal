@@ -1,38 +1,15 @@
-## Welcome to GitHub Pages
-# Basma
+***Hi everyone***
+My name is Basma, I'm 23 years old, and I was an IT student at SMU in KSA, unfortunately, I couldn't complete my study. So, I'm here to continue my study in the major which I love it. 
+Thank you all.
+[GitHub](https://github.com/Basma23)
 
-You can use the [editor on GitHub](https://github.com/Basma23/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# What is growth mindset?
+A growth mindset is the avalability to develop ourselves by working hard on our skills and abilities, which leading us to greater growth and success at the end. Growth mindset make us lover of learn and discover the new things .
+# 3 reminders to myself of how to keep myself in a growth mindset:
+- **If I do mistakes** I'll tell myself that if there is no pain so there wont be no gain
+- **If there is something new and hard to me** I'll say the posetive things to myself such as I still don't get the known yet and I'll work hard on it. 
+- **If I've challanges** I'll take them as opportunities to learn and try new things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Class102 is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Basma23/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
