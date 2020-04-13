@@ -7,16 +7,16 @@ When we want to create our web pages we have to point to these points: **Who our
 We should to sketch your wep page how it will be look like, and we can use **Site Maps** which allows us to plan the strauctureof a site.
 
 
-To organize the information that we will need to go on each page we use **wireframes**.
+-To organize the information that we will need to go on each page we use **wireframes**.
 
 
-To help our visitors to understand what we are trying to tell them we use **visual hirarchy**.
+-To help our visitors to understand what we are trying to tell them we use **visual hirarchy**.
 
 
-To coordinate our information on our web page we use **size, color, and style**.
+-To coordinate our information on our web page we use **size, color, and style**.
 
 
-To make simle present of our information we can use **grouping and similarity**.
+-To make simle present of our information we can use **grouping and similarity**.
 
 
 ## Structure ##
@@ -41,18 +41,18 @@ The older browsers which don't understand HTML5 elemts need to be told which ele
 When we write an HTML code we will start writing by DOCTYPES which tell browsers that which HTML version that we are using.
 
 
-To add comments on our HTML to let other understand what are we doing on our code we write it like this <!-- our comment -->.
+- To add comments on our HTML to let other understand what are we doing on our code we write it like this <!-- our comment -->.
 
 
-We can add id and class atributes inside tags to identify particular elements.
+- We can add id and class atributes inside tags to identify particular elements.
 
 
-To group block-level and inline elements togather we use these tags <div> and <span>.
+- To group block-level and inline elements togather we use these tags <div> and <span>.
   
   
-To cut windows into our web pages through which other pages can be displayed we use this tag <iframes>.
+- To cut windows into our web pages through which other pages can be displayed we use this tag <iframes>.
   
   
-To supply all kinds of information about our page we use this tag <meta>.
+- To supply all kinds of information about our page we use this tag <meta>.
 
 
