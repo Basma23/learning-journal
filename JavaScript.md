@@ -1,22 +1,19 @@
 # What is JavaScript? #
-The petter way to write JavaScript code is pot it in its own file like HTML code, and CSS code but the extention for it is .js, and we linke it with HTML by using script tag inside body tag in HTML file, 
+The better way to write JavaScript code is pot it in its own file like HTML code, and CSS code but the extension for it is .js, and we link it with HTML by using script tag inside body tag in HTML file,and when we render it, the JavaScript will not have changed the HTML, because it deals with the model of the web page that the browser has created.
 
-and when we runder it, the JavaScript will not have changed the HTML, because it deals with the model of the web page that the browser has created.
+The script consider as a set of instructions which the computer do the step by step or one by one.
 
-The script consider as a set of instructions which the computer do the step by step or pne by one.
+Statement is each individual instruction or step.The case of JavaScript is sensitive.
 
-Statment is each individual instruction or step.
-
-The case of Javascript is sensitive.
-
-There are two ways o write comment by using JavaScripte, and these are: MULTI-LINE COMM ENTS which we use it to write more than one comment line, and SINGLE-LINE COMMENTS which we use it to write just one comment line.
-
+**There are two ways to write comment by using JavaScript, and these are:** 
+- **MULTI-LINE COMMENTS** which we use it to write more than one comment line.
+- **SINGLE-LINE COMMENTS** which we use it to write just one comment line.
 # What it is a variable? #
 We use variables in JavaScript code to store some data temporarily.
 
-Variables  is the best name that we can use it because the data which we need to stored it on it can be change in each script runs. 
+Variables is the best name that we can use it because the data which we need to stored it on it can be change in each script runs.
 
-Likewise, scripts often need to achieve the same goal even when running with different data, so variables can be used to represent values in our scripts that are likely to change. 
+Likewise, scripts often need to achieve the same goal even when running with different data, so variables can be used to represent values in our scripts that are likely to change.
 
 The result is said to be calculated using the data stored in the variables.
 
@@ -25,7 +22,7 @@ The result is said to be calculated using the data stored in the variables.
 - **STRING DATA TYPE**  which consists of letters and other characters.  
 - **BOOLEAN DATA TYPE** which have two values of data either true or fales.
 
-**There are six rules for namming variables which these are:** [1]
+**There are six rules for naming variables which these are:** [1]
 - The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
 - The name can contain letters, numbers, dollar sign ($), or an underscore (_). 
 - You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something.
