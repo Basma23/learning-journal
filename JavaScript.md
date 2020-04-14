@@ -17,10 +17,10 @@ Likewise, scripts often need to achieve the same goal even when running with dif
 
 The result is said to be calculated using the data stored in the variables.
 
-**There are three types of data for store them in the variables by JavaScript which tese are:**
+**There are three types of data for store them in the variables by JavaScript which these are:**
 - **NUMERIC DATA TYPE** which handles numbers. 
 - **STRING DATA TYPE**  which consists of letters and other characters.  
-- **BOOLEAN DATA TYPE** which have two values of data either true or fales.
+- **BOOLEAN DATA TYPE** which have two values of data either true or false.
 
 **There are six rules for naming variables which these are:** [1]
 - The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
