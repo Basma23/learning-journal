@@ -18,10 +18,14 @@ A growth mindset is the availability to develop ourselves by working hard on our
 
 - **If I've challenges** I'll take them as opportunities to learn and try new things.
 
-| Column 1       | Column 2     |
-| :------------- | :----------: |
-|  Cell Contents | More Stuff   |
-| You Can Also   | Put Pipes In |
+| Index | Title                         | Link                                                                                       |
+| :---: | :---------------------------: | -----------------------------------------------------------------------------------------: |
+|   1   | What is growth mindset?       | [GitHub](https://basma23.github.io/learning-journal/)                                      |
+|   2   | Learning Markdown             | [GitHub](https://basma23.github.io/learning-journal/Learning%20Markdown)                   |
+|   3   | The Coder's Computer          | [GitHub](https://basma23.github.io/learning-journal/The%20Coder's%20Computer)              |
+|   4   | Revisions and the Cloud       | [GitHub](https://basma23.github.io/learning-journal/Revisions%20and%20the%20Cloud)         |
+|   5   | Structure web pages with HTML | [GitHub](https://basma23.github.io/learning-journal/Structure%20web%20pages%20with%20HTML) |
+
 
 
 
