@@ -25,7 +25,7 @@ The result is said to be calculated using the data stored in the variables.
 - **STRING DATA TYPE**  which consists of letters and other characters.  
 - **BOOLEAN DATA TYPE** which have two values of data either true or fales.
 
-**There are six rules for namming variables which these are:** ###### [1] ######
+**There are six rules for namming variables which these are:**[1]
 - The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
 - The name can contain letters, numbers, dollar sign ($), or an underscore (_). 
 - You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something.
