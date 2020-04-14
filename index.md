@@ -1,11 +1,11 @@
 # ***Hi everyone,*** #
 my name is Basma, I'm 23 years old, and I was an IT student at SEU in KSA, unfortunately, I couldn't complete my study. So, I'm here to continue my study in the major which I love it. 
 
-< I wish the 'best' & for all:)
+I wish the best for all:)
 
 Thank you all.
 
-[GitHub](https://github.com/Basma23)
+[My Profile](https://github.com/Basma23)
 
 # What is growth mindset?
 A growth mindset is the availability to develop ourselves by working hard on our skills and abilities, which leading us to greater growth and success at the end. Growth mindset make us lover of learn and discover the new things.
