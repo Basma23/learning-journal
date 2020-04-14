@@ -47,18 +47,18 @@ The older browsers which don't understand HTML5 elements need to be told which e
 When we write an HTML code we will start writing by DOCTYPES which tell browsers that which HTML version that we are using.
 
 
-- To add comments on our HTML to let other understand what are we doing on our code we write it like this <!-- our comment --> .
+- To add comments on our HTML to let other understand what are we doing on our code we write it like this (<!-- our comment -->) .
 
 
 - We can add id and class attributes inside tags to identify particular elements.
 
 
-- To group block-level and inline elements together we use these tags <div> and <span>.
+- To group block-level and inline elements together we use these tags (<div> and <span>).
   
   
-- To cut windows into our web pages through which other pages can be displayed we use this tag <iframes>.
+- To cut windows into our web pages through which other pages can be displayed we use this tag (<iframes>).
   
   
-- To supply all kinds of information about our page we use this tag <meta>.
+- To supply all kinds of information about our page we use this tag (<meta>).
 
 
