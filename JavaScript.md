@@ -35,4 +35,4 @@ The result is said to be calculated using the data stored in the variables.
 
 
 ##### Resource #####
-###### [1] I've take this part from [here](https://slack-files.com/files-pri-safe/TNGRRLUMA-F011S1UE7EH/javascript_and_jquery_interactive_jon_du.pdf?c=1586864463-45a47103ba9f3f2a):
+###### [1] I've taken this part from [here](https://slack-files.com/files-pri-safe/TNGRRLUMA-F011S1UE7EH/javascript_and_jquery_interactive_jon_du.pdf?c=1586864463-45a47103ba9f3f2a):
