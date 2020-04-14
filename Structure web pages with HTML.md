@@ -47,7 +47,7 @@ The older browsers which don't understand HTML5 elements need to be told which e
 When we write an HTML code we will start writing by DOCTYPES which tell browsers that which HTML version that we are using.
 
 
-- To add comments on our HTML to let other understand what are we doing on our code we write it like this <!-- our comment -->.
+- To add comments on our HTML to let other understand what are we doing on our code we write it like this <!-- our comment --> .
 
 
 - We can add id and class attributes inside tags to identify particular elements.
