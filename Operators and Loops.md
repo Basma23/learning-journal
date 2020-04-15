@@ -21,7 +21,7 @@ We use the operators of **logical** to specify the logic between variables or va
 
 **Ther are three types of logical operators and these are:** 
 - LOGICAL AND &&
-- LOGICAL OR '||'
+- LOGICAL OR 
 - LOGICAL NOT ! 
 
 # What are the loops #
