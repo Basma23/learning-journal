@@ -8,7 +8,7 @@ To deal with writing JavaScript code or script we should to determine our goal a
 
 # What is an expression? # 
 
-An expression evaluates into (results in) a single value. [2] 
+An expression evaluates into (results in) a single value. [1] 
 
 **We have two types of expression and these are:**
 
@@ -61,6 +61,6 @@ Functions let you group a series of statements together to perform a specific ta
 
 
 ##### Resources #####
-[1], [2].
-###### [From here](https://slack-files.com/files-pri-safe/TNGRRLUMA-F011S1UE7EH/javascript_and_jquery_interactive_jon_du.pdf?c=1586979576-45a47103ba9f3f2a) ######
+
+[1] [From here](https://slack-files.com/files-pri-safe/TNGRRLUMA-F011S1UE7EH/javascript_and_jquery_interactive_jon_du.pdf?c=1586979576-45a47103ba9f3f2a)
 
