@@ -1,10 +1,10 @@
-# What is Javacript #
+# What is JavaScript #
 
-The script consider as a set of instructions which the computer do the step by step or one by one to acheave a specific goal.
+The script consider as a set of instructions which the computer do the step by step or one by one to achieve a specific goal.
 
-When we are runing JavaScript it might only use a subset of all the instructions at each time. 
+When we are running JavaScript it might only use a subset of all the instructions at each time. 
 
-To deal with writing JavaScript code or script we should to determain our goal and break it down into a series of tasks and then work out each step needed to complete that task.
+To deal with writing JavaScript code or script we should to determine our goal and break it down into a series of tasks and then work out each step needed to complete that task.
 
 # What is an expression? # 
 
@@ -55,9 +55,9 @@ Functions let you group a series of statements together to perform a specific ta
 
 **There are two ways to declaring function and they are:**
 
-- To write a function we need to give it name related to our purpos to make others understand what we are doing, then we write our statement inside the curly braces, after our function we need to calling it to execute our statement.
+- To write a function we need to give it name related to our purpose to make others understand what we are doing, then we write our statement inside the curly braces, after our function we need to calling it to execute our statement.
 
-- Some times we need to specify information for our function to execute its task, and to write this type it will be like this function, then its name, then between parenthesis our parameters, then curly braces, between them the parameters will act as variables. To calling this type of function we need to specify the aeguments which they can provided as values or variables.
+- Some times we need to specify information for our function to execute its task, and to write this type it will be like this function, then its name, then between parenthesis our parameters, then curly braces, between them the parameters will act as variables. To calling this type of function we need to specify the arguments which they can provided as values or variables.
 
 
 ##### Resources #####
