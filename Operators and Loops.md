@@ -2,12 +2,12 @@
 
 **There are two types of operators and these are:**
 
-- Comparision operators.
+- Comparison operators.
 - Logical operators.
 
-We use the operators of **comparision** to specify equality or difference between variables or values, and the result will be a boolean which giv as true or false
+We use the operators of **comparison** to specify equality or difference between variables or values, and the result will be a Boolean which give us true or false
 
-**There are eight types of comparision operators and these are:**
+**There are eight types of comparison operators and these are:**
 - IS EQUAL TO ==
 - IS NOT EQUAL TO !==
 - STRICT EQUAL TO ===
