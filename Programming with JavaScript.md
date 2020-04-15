@@ -61,5 +61,6 @@ Functions let you group a series of statements together to perform a specific ta
 
 
 ##### Resources #####
+[1], [2].
 ###### [From here](https://slack-files.com/files-pri-safe/TNGRRLUMA-F011S1UE7EH/javascript_and_jquery_interactive_jon_du.pdf?c=1586979576-45a47103ba9f3f2a) ######
 
