@@ -1,4 +1,4 @@
-# whay we are using Operators and Loops? #
+# why we are using Operators and Loops? #
 
 **There are two types of operators and these are:**
 
@@ -19,20 +19,20 @@ We use the operators of **comparision** to specify equality or difference betwee
 
 We use the operators of **logical** to specify the logic between variables or values.
 
-**Ther are three types of logical operators and these are:** 
+**There are three types of logical operators and these are:** 
 - LOGICAL AND &&
 - LOGICAL OR 
 - LOGICAL NOT ! 
 
 # What are the loops #
 
-we use loop to a test for a condition if it return true to us then the condition will be chicked again til return false to us then our loop will be broken.
+we use loop to a test for a condition if it return true to us then the condition will be checked again til return false to us then our loop will be broken.
 
 **For loops there are three types and these are:** 
 - For loop
 - While loop
 - Do while loop
 
-**For loop** is using counter for its condition which mean that it instructs code specifyed number for runing, and we write it like this for(initialization, condition, update){}.
+**For loop** is using counter for its condition which mean that it instructs code specified number for running, and we write it like this for(initialization, condition, update){}.
 
 **While loop** we use it to instruct the code to run each time as long as a specified condition is true. 
