@@ -6,9 +6,9 @@ When we are runing JavaScript it might only use a subset of all the instructions
 
 To deal with writing JavaScript code or script we should to determain our goal and break it down into a series of tasks and then work out each step needed to complete that task.
 
-# What is an expression? # [2]
+# What is an expression? # 
 
-An expression evaluates into (results in) a single value. 
+An expression evaluates into (results in) a single value. [2] 
 
 **We have two types of expression and these are:**
 
@@ -60,5 +60,6 @@ Functions let you group a series of statements together to perform a specific ta
 - Some times we need to specify information for our function to execute its task, and to write this type it will be like this function, then its name, then between parenthesis our parameters, then curly braces, between them the parameters will act as variables. To calling this type of function we need to specify the aeguments which they can provided as values or variables.
 
 
-
+##### Resources #####
+###### [From here](https://slack-files.com/files-pri-safe/TNGRRLUMA-F011S1UE7EH/javascript_and_jquery_interactive_jon_du.pdf?c=1586979576-45a47103ba9f3f2a) ######
 
