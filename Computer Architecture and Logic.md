@@ -18,7 +18,7 @@ The CPU block connects the software to the hardware, and contains:
 
 The CPU knows which circuit will be used and when, by means of simple commands that tell it which circuit should be used, as it executes the commands one by one. 
 
-The main form of the software is the binary code and it controls all the hardware while we do not need to now write commands in the binary, because it is difficult to use, as there are high-level programming languages ​​such as Python, Ruby, Blockley, Java, and so on. 
+The main form of the software is the binary code and it controls all the hardware while we do not need to now write commands in the binary, because it is difficult to use, as there are high-level programming languages ​​such as Python, Ruby, Java, and so on. 
 
 **So, The software tells the CPU what to do.**
 
@@ -26,4 +26,4 @@ The main form of the software is the binary code and it controls all the hardwar
 
 An operating system is a major program that manages how the software uses computers. 
 
-So, we can use many softwere at the same time like watching video and chatting with frinds, even listening to music, and the OS will manage them.
+So, we can use many software at the same time like watching video and chatting with friends, even listening to music, and the OS will manage them.
