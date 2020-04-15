@@ -7,7 +7,7 @@
 
 We use the operators of **comparision** to specify equality or difference between variables or values, and the result will be a boolean which giv as true or false
 
-**There are eight types of comparision operators and these are:
+**There are eight types of comparision operators and these are:**
 - IS EQUAL TO ==
 - IS NOT EQUAL TO !==
 - STRICT EQUAL TO ===
