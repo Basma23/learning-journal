@@ -21,7 +21,7 @@ We use the operators of **logical** to specify the logic between variables or va
 
 **Ther are three types of logical operators and these are:** 
 - LOGICAL AND &&
-- LOGICAL OR ||
+- LOGICAL OR '||'
 - LOGICAL NOT ! 
 
 # What are the loops #
@@ -36,5 +36,3 @@ we use loop to a test for a condition if it return true to us then the condition
 **For loop** is using counter for its condition which mean that it instructs code specifyed number for runing, and we write it like this for(initialization, condition, update){}.
 
 **While loop** we use it to instruct the code to run each time as long as a specified condition is true. 
-
-My GitHup link: [Here](https://basma23.github.io/learning-journal/Operators%20and%20Loops)
