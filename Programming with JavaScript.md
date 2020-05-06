@@ -1,4 +1,4 @@
-# What is JavaScript #
+# What is JavaScript? #
 
 The script consider as a set of instructions which the computer do the step by step or one by one to achieve a specific goal.
 
