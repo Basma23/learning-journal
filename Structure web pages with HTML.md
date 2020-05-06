@@ -39,7 +39,6 @@ We should know what tags that we need them for our use, what they do, and where 
 
 The new elements of HTML5 point the purpose of different parts of a web page and help to describe its structure, and provide clearer code. 
 
-
 The older browsers which don't understand HTML5 elements need to be told which elements are blocklevel elements.
 
 ## Extra Markup ##
